@@ -1,0 +1,22 @@
+li {
+  margin-top: 10px;
+  color: #DDE5E8;
+}
+
+li:first-child {
+  margin-top: 0;
+}
+
+li:last-child {
+  padding-bottom: 10px;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a div:hover {
+  background-color: white !important;
+  color: #E56F00 !important;
+  border: 1px solid #E56F00;
+}
